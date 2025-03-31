@@ -58,7 +58,6 @@ const Header = () => {
           </button>
         </div>
       </div>
-
       {/* Second Image with Text */}
       <div className="w-full flex items-center place-content-end px-4 relative">
         <img
